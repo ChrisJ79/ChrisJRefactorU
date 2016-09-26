@@ -1,0 +1,23 @@
+p {
+    color: peachpuff;
+    background-color: dodgerblue;
+}
+
+
+.hotshot {
+    border-width: 10px;
+    border-style: groove;
+    border-color: burlywood
+    color: yellow;
+}
+
+#main {
+    background-color: red;
+}
+
+.hotshot > span {
+    color: green;
+    margin: 20px !important;
+}
+
+/* element   class   id   =   order of specificity */
